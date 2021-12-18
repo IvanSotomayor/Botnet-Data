@@ -1,0 +1,76 @@
+Failed password for illegal user guest
+Numero de ocurrencias totales de este tipo 6779
+enero ---> 0 
+febrero ---> 0 
+marzo ---> 0 
+abril ---> 0 
+mayo ---> 858 
+junio ---> 844 
+julio ---> 845 
+agosto ---> 865 
+septiembre  ---> 858 
+octubre ---> 868 
+noviembre ---> 830 
+diciembre ---> 811 
+
+Illegal user
+Numero de ocurrencias totales de este tipo 3334
+enero ---> 0 
+febrero ---> 0 
+marzo ---> 0 
+abril ---> 0 
+mayo ---> 391 
+junio ---> 419 
+julio ---> 410 
+agosto ---> 444 
+septiembre  ---> 433 
+octubre ---> 404 
+noviembre ---> 419 
+diciembre ---> 414 
+
+Failed password for illegal user root
+Numero de ocurrencias totales de este tipo 3350
+enero ---> 0 
+febrero ---> 0 
+marzo ---> 0 
+abril ---> 0 
+mayo ---> 410 
+junio ---> 413 
+julio ---> 412 
+agosto ---> 424 
+septiembre  ---> 411 
+octubre ---> 412 
+noviembre ---> 449 
+diciembre ---> 419 
+
+Failed password for admin
+Numero de ocurrencias totales de este tipo 3343
+enero ---> 0 
+febrero ---> 0 
+marzo ---> 0 
+abril ---> 0 
+mayo ---> 434 
+junio ---> 410 
+julio ---> 427 
+agosto ---> 423 
+septiembre  ---> 409 
+octubre ---> 396 
+noviembre ---> 438 
+diciembre ---> 406 
+
+Failed password for illegal user guest
+Numero de ocurrencias totales de este tipo 1
+enero ---> 0 
+febrero ---> 0 
+marzo ---> 0 
+abril ---> 0 
+mayo ---> 0 
+junio ---> 0 
+julio ---> 0 
+agosto ---> 0 
+septiembre  ---> 1 
+octubre ---> 0 
+noviembre ---> 0 
+diciembre ---> 0 
+
+
